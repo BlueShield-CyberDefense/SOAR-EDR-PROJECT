@@ -1,0 +1,14 @@
+op: and
+events:
+  - NEW_PROCESS
+rules:
+  - op: contains
+    path: event/FILE_PATH
+    value: LaZagne
+  - op: contains
+    path: event/COMMAND_LINE
+    value: LaZagne
+  - op: is
+    path: event/OS
+    value: windows
+
