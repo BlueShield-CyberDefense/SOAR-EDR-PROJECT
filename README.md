@@ -180,11 +180,4 @@ git clone <your-repo-url>
 
 ---
 
-## 📧 Contact
 
-**Ahmed Tarek**
-For collaborations or cloud‑based SOC engineering tasks.
-
----
-
-## ⭐ إذا أعجبك المشروع – لا تنسَ عمل Star على GitHub!
